@@ -25,7 +25,7 @@ openGraph:
   title: John's Personal website
   type: website
   description: Portfolio and personal blog of John Kelly.
-  image: images/author/john.png
+  image: assets/images/author/Black-logo-no-bg.svg
   #url: https://hugo-toha.github.io
 
 # specify the title appearing on the navbar.

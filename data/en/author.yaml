@@ -3,7 +3,8 @@ name: "John Kelly"
 nickname: "John"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
-image: "images/author/john.png"
+image: "images/site/white-logo-head.png"
+#
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "jd.kelly803@gmail.com"
@@ -16,5 +17,6 @@ contactInfo:
 summary:
   - I love Devops
   - I love Linux
-  - I'm always curious
-  - I'm always learning
+  - Always curious
+  - Always learning
+  - Usually found tinkering

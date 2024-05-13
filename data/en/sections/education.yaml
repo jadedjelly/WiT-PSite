@@ -14,15 +14,44 @@ degrees:
   icon: fa-graduation-cap
   timeframe: Sept 2023 - Present
   institution:
-    name: Self education
+    name: Devops Boot Camp
+    url: "https://www.techworld-with-nana.com/devops-bootcamp"
     # Can optionally show a different logo for dark theme
     # darklogo: /images/sections/education/university.jpg
   grade: #(optional)
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
-    collapseAfter: 3
+    collapseAfter: 15
     courses:
-    - name: Nana Techworld - Devops Bootcamp
+    - name: Overview & intro to Devops
+    - name: OS & Linux Basics
+    - name: Version Control with Git
+    - name: Build & package Manager Tools
+    - name: Cloud & IaaS
+    - name: Artifact Repo Manager (Nexus)
+    - name: Docker
+    - name: Jenkins CI/CD
+    - name: AWS Services (IAM, EKS, EC2, ECR, etc)
+    - name: Kubernetes & K8 on AWS
+    - name: IaC w/ Terraform
+    - name: Automation with Python
+    - name: Ansible
+    - name: Prometheus
 
+#- name:
+#  icon: fa-graduation-cap
+#  timeframe: Sept 2023 - Present
+#  institution:
+#    name: Devops Boot Camp
+#    url: "https://www.techworld-with-nana.com/devops-bootcamp"
+#    # Can optionally show a different logo for dark theme
+#    # darklogo: /images/sections/education/university.jpg
+#  grade: #(optional)
+#  takenCourses: #(optional)
+#    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+#    showGrades: false
+#    collapseAfter: 15
+#    courses:
+#      - name: Overview & intro to Devops
 
