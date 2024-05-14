@@ -8,7 +8,7 @@ image: "images/site/white-logo-head.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "jd.kelly803@gmail.com"
-  phone: "+447494371641"
+  # phone: "+447494371641"
   github: jadedjelly
   linkedin: johnkelly803/
   #researchgate: john-doe
