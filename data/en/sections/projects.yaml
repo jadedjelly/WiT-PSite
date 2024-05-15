@@ -15,7 +15,7 @@ buttons:
 - name: Ansible
   filter: "ansible"
 - name: AWS Services
-  filter: "aws services"
+  filter: "aws"
 - name: Cloud & IaaS
   filter: "cloud & iaas"
 - name: Course Work
@@ -40,6 +40,53 @@ buttons:
 projects:
 # Your Ansible projects
 # Your AWS Services projects
+
+    - name: AWS Services
+      logo: /images/sections/projects/aws.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M9-aws-demos/tree/deploy-webApp-ec2
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Deploy Web Application on EC2 Instance (manually)
+      tags: [ "course work", "aws", "docker", "linux"]
+
+    - name: AWS Services
+      logo: /images/sections/projects/aws.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M9-aws-demos/tree/CD-App-jenkins-pipeline_auto
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: CD - Deploy Application from Jenkins Pipeline to EC2 Instance (automatically with docker)
+      tags: [ "course work", "aws", "jenkins", "docker", "linux", "git", "java", "maven", "Docker Hub"]
+
+    - name: AWS Services
+      logo: /images/sections/projects/aws.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M9-aws-demos/tree/CD-App-jenkins-pipeline_auto-dockercompose
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: CD - Deploy Application from Jenkins Pipeline on EC2 Instance (automatically with docker-compose)
+      tags: [ "course work", "aws", "jenkins", "docker", "linux", "git", "java", "maven", "Docker Hub"]
+
+    - name: AWS Services
+      logo: /images/sections/projects/aws.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M9-aws-demos/tree/complete-cicd-pipe
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Complete the CI/CD Pipeline (Docker-Compose, Dynamic versioning)
+      tags: [ "course work", "aws", "jenkins", "docker", "linux", "git", "java", "maven", "Docker Hub" ]
+
+    - name: AWS Services
+      logo: /images/sections/projects/aws.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M9-aws-demos/tree/aws-cli
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Interacting with AWS CLI
+      tags: [ "course work", "aws", "linux" ]
+
+
 # Your cloud & iaas projects
 
     #1
@@ -133,6 +180,78 @@ projects:
 
 # Your Java projects
 # Your Jenkins projects
+
+    - name: Jenkins
+      logo: /images/sections/projects/jenkins-transparent.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/install-to-DO
+      # If your project is a public repo on GitHub, then provide this link. it will show star count.
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Install Jenkins on DigitalOcean
+      tags: [ "course work", "jenkins", "cloud & iaas", "linux", "docker" ]
+
+    - name: Jenkins
+      logo: /images/sections/projects/jenkins-transparent.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/ciFreestyle-w-Jenkinsfile
+      # If your project is a public repo on GitHub, then provide this link. it will show star count.
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Create a CI Pipeline with Jenkinsfile (Freestyle Pipeline)
+      tags: [ "course work", "jenkins", "cloud & iaas", "linux", "docker", "java", "maven"]
+
+    - name: Jenkins
+      logo: /images/sections/projects/jenkins-transparent.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/ciPipeline-w-jenkinsfile
+      # If your project is a public repo on GitHub, then provide this link. it will show star count.
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Create a CI Pipeline with Jenkinsfile (Pipeline)
+      tags: [ "course work", "jenkins", "cloud & iaas", "linux", "docker", "java", "maven"]
+
+    - name: Jenkins
+      logo: /images/sections/projects/jenkins-transparent.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/ciMultiBranch-w-jenksfile
+      # If your project is a public repo on GitHub, then provide this link. it will show star count.
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Create a CI Pipeline with Jenkinsfile (Multibranch Pipeline)
+      tags: [ "course work", "jenkins", "cloud & iaas", "linux", "docker", "java", "maven"]
+
+    - name: Jenkins
+      logo: /images/sections/projects/jenkins-transparent.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/Jenkins-shared-lib
+      # If your project is a public repo on GitHub, then provide this link. it will show star count.
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Create a Jenkins Shared Library
+      tags: [ "course work", "jenkins", "groovy", "docker", "git", "java", "maven" ]
+
+    - name: Jenkins
+      logo: /images/sections/projects/jenkins-transparent.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/webhook-pipeline
+      # If your project is a public repo on GitHub, then provide this link. it will show star count.
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Configure Webhook to trigger CI Pipeline automatically on every change
+      tags: [ "course work", "jenkins", "gitlab", "git", "docker", "java", "maven" ]
+
+    - name: Jenkins
+      logo: /images/sections/projects/jenkins-transparent.png
+      role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/dyna-increment
+      # If your project is a public repo on GitHub, then provide this link. it will show star count.
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Dynamically Increment Application version in Jenkins Pipeline
+      tags: [ "course work", "jenkins", "cloud & iaas", "git", "docker", "java", "maven" ]
+
+
 # Your Kubernetes projects
 # Your Linux projects
 # Your nexus projects
@@ -162,8 +281,14 @@ projects:
       tags: ["misc"]
 
 
-
-
+#    - name:
+#      logo: /images/sections/projects/
+#      role:
+#      # timeline: "March 2018 - Present"
+#      repo:
+#      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+#      summary:
+#      tags: [ "course work", "Java", "cloud & iaas", "linux" ]
 
 
 
