@@ -37,7 +37,7 @@ experiences:
           - Manage & maintain Teams calling (Resources, queues & policies)
           - Manage & maintain Crowdstrike (detection & response, network quarantine, device control [usb block])
           - Manage & maintain Zscaler firewall rules, monitoring traffic, malware blocking
-          - Manage & maintain Heimdal (device management, patch management, whitelist & blacklist S/W & remote management)
+          - Manage & maintain Heimdal (device management, patch management, whitelist & blacklist S/W & remote management), previously used Solarwinds, but due to issues with reporting we moved to Heimdal
           - Manage & maintaining Jamf
           - Manage S/W licensing O365, Adobe, Figma, Miro & Axure
           - Liaise with 3rd party suppliers

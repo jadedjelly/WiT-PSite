@@ -10,6 +10,29 @@ section:
   # hideTitle: true
 
 degrees:
+  name:
+  icon: fa-graduation-cap
+  timeframe: May 2024 - Present
+  institution:
+    name: Red Hat Certified Systems Administrator (RHCSA 9)
+    url: "https://www.pearsonitcertification.com/store/red-hat-rhcsa-9-cert-guide-ex200-9780138096267"
+    # Can optionally show a different logo for dark theme
+    # darklogo: /images/sections/education/university.jpg
+  grade: #(optional)
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 15
+    courses:
+      - name: Getting Started with RH
+      - name: Getting started with Basic tasks
+      - name: Performing basic system management tools
+      - name: Performing Daily administration Tasks
+      - name: Managing Storage
+      - name: Performing advanced system administration tasks
+      - name: Managing & securing Network services
+
+
 - name:
   icon: fa-graduation-cap
   timeframe: Sept 2023 - Present
@@ -38,6 +61,44 @@ degrees:
     - name: Automation with Python
     - name: Ansible
     - name: Prometheus
+
+#  - name:
+#    icon: fa-graduation-cap
+#    timeframe: Sept 2023 - Present
+#    institution:
+#      name: AWS Solutions Architect Associate
+#      url: "https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03"
+#      # Can optionally show a different logo for dark theme
+#      # darklogo: /images/sections/education/university.jpg
+#    grade: #(optional)
+#    takenCourses: #(optional)
+#      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+#      showGrades: false
+#      collapseAfter: 15
+#      courses:
+#        - name: Design Secure Architectures
+#        - name: Design Resilient Architectures
+#        - name: Design High-Performing Architectures
+#        - name: Design Cost-Optimized Architectures
+
+#    - name:
+#      icon: fa-graduation-cap
+#      timeframe: Sept 2023 - Present
+#      institution:
+#        name: AWS Developer Associate
+#        url: "https://learn.cantrill.io/p/aws-certified-developer-associate"
+#        # Can optionally show a different logo for dark theme
+#        # darklogo: /images/sections/education/university.jpg
+#      grade: #(optional)
+#      takenCourses: #(optional)
+#        # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+#        showGrades: false
+#        collapseAfter: 15
+#        courses:
+#          - name: Development with AWS Services
+#          - name: Security
+#          - name: Deployment
+#          - name: Troubleshooting and Optimization
 
 #- name:
 #  icon: fa-graduation-cap

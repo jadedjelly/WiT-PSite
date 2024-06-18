@@ -17,7 +17,7 @@ skills:
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  summary: "Write most of the programs as a container. Experienced with multi-stage, multi-arch build process."
   url: "https://www.docker.com/"
 
 - name: Prometheus
@@ -27,7 +27,7 @@ skills:
 
 - name: Jenkins
   logo: /images/sections/skills/jenkins.svg
-  summary: "Capable of building & maintaining freestyle & mutibranch pipelines"
+  summary: "Capable of building & maintaining freestyle & multibranch pipelines"
 
 - name: Terraform
   logo: /images/sections/skills/terraform.svg
@@ -39,7 +39,7 @@ skills:
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using Ubuntu as my day to day driver, but also play with other favours (Fedora, Nix, Pop)"
+  summary: "Using Ubuntu as my day to day driver, and on the RHCSA9 course (Sander Van Vugt - [here](https://www.pearsonitcertification.com/store/red-hat-rhcsa-9-cert-guide-ex200-9780138096267))"
 
 - name: Git
   logo: /images/sections/skills/git.png

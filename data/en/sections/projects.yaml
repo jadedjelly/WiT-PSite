@@ -30,6 +30,8 @@ buttons:
   filter: "linux"
 - name: Nexus
   filter: "nexus"
+- name: Misc
+  filter: "misc"
 - name: Prometheus
   filter: "prometheus"
 - name: Python
@@ -43,7 +45,7 @@ projects:
 
     - name: AWS Services
       logo: /images/sections/projects/aws.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M9-aws-demos/tree/deploy-webApp-ec2
       #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -52,7 +54,7 @@ projects:
 
     - name: AWS Services
       logo: /images/sections/projects/aws.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M9-aws-demos/tree/CD-App-jenkins-pipeline_auto
       #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -61,7 +63,7 @@ projects:
 
     - name: AWS Services
       logo: /images/sections/projects/aws.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M9-aws-demos/tree/CD-App-jenkins-pipeline_auto-dockercompose
       #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -70,7 +72,7 @@ projects:
 
     - name: AWS Services
       logo: /images/sections/projects/aws.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M9-aws-demos/tree/complete-cicd-pipe
       #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -79,7 +81,7 @@ projects:
 
     - name: AWS Services
       logo: /images/sections/projects/aws.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M9-aws-demos/tree/aws-cli
       #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -92,7 +94,7 @@ projects:
     #1
     - name: Cloud & IaaS
       logo: /images/sections/projects/digitalocean.svg
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M5-cloud-iaas
       #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -105,7 +107,7 @@ projects:
     #1
     - name: Docker
       logo: /images/sections/projects/docker-mark-blue.svg
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M7-docker-demos/tree/Dock-repo-nexus-push
       #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
@@ -115,7 +117,7 @@ projects:
     #2
     - name: Docker
       logo: /images/sections/projects/docker-mark-blue.svg
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M7-docker-demos/tree/create-local-dev
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -126,7 +128,7 @@ projects:
     #3
     - name: Docker
       logo: /images/sections/projects/docker-mark-blue.svg
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M7-docker-demos/tree/deploy-w-docker-compose
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -137,7 +139,7 @@ projects:
     #4
     - name: Docker
       logo: /images/sections/projects/docker-mark-blue.svg
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M7-docker-demos/tree/dockerize-push-dockerReg
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -148,7 +150,7 @@ projects:
     #5
     - name: Docker
       logo: /images/sections/projects/docker-mark-blue.svg
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M7-docker-demos/tree/multiple-docker-containers
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -159,7 +161,7 @@ projects:
     #6
     - name: Docker
       logo: /images/sections/projects/docker-mark-blue.svg
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M7-docker-demos/tree/nexus-as-container
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -170,7 +172,7 @@ projects:
     #7
     - name: Docker
       logo: /images/sections/projects/docker-mark-blue.svg
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M7-docker-demos/tree/persist-data-w-vols
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -183,7 +185,7 @@ projects:
 
     - name: Jenkins
       logo: /images/sections/projects/jenkins-transparent.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/install-to-DO
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -193,7 +195,7 @@ projects:
 
     - name: Jenkins
       logo: /images/sections/projects/jenkins-transparent.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/ciFreestyle-w-Jenkinsfile
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -203,7 +205,7 @@ projects:
 
     - name: Jenkins
       logo: /images/sections/projects/jenkins-transparent.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/ciPipeline-w-jenkinsfile
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -213,7 +215,7 @@ projects:
 
     - name: Jenkins
       logo: /images/sections/projects/jenkins-transparent.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/ciMultiBranch-w-jenksfile
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -223,7 +225,7 @@ projects:
 
     - name: Jenkins
       logo: /images/sections/projects/jenkins-transparent.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/Jenkins-shared-lib
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -233,7 +235,7 @@ projects:
 
     - name: Jenkins
       logo: /images/sections/projects/jenkins-transparent.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/webhook-pipeline
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -243,7 +245,7 @@ projects:
 
     - name: Jenkins
       logo: /images/sections/projects/jenkins-transparent.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M8-Jenkins-demos/tree/dyna-increment
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -258,7 +260,7 @@ projects:
 
     - name: Nexus
       logo: /images/sections/projects/Nexus_logo.png
-      role:
+      # role:
       # timeline: "March 2018 - Present"
       repo: https://github.com/jadedjelly/M6-Nexus-demo/tree/main
       # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -269,6 +271,26 @@ projects:
 # Your Prometheus projects
 # Your Python projects
 # Your Terraform projects
+
+    - name: Terraform
+      logo: /images/sections/projects/Terraform-LogoMark_onDark.png
+      # role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M12-Terraform-Demos/tree/deploy-to-ec2
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Automate AWS Infrastructure
+      tags: [ "course work", "terraform", "aws", "linux", "docker", "git" ]
+
+    - name: Terraform
+      logo: /images/sections/projects/Terraform-LogoMark_onDark.png
+      # role:
+      # timeline: "March 2018 - Present"
+      repo: https://github.com/jadedjelly/M12-Terraform-Demos/tree/modularize
+      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+      summary: Modularize Project
+      tags: [ "course work", "terraform", "aws", "linux", "docker", "git" ]
+
+
 # Your misc projects
 
     - name: Hugo & toha
@@ -283,7 +305,7 @@ projects:
 
 #    - name:
 #      logo: /images/sections/projects/
-#      role:
+#      # role:
 #      # timeline: "March 2018 - Present"
 #      repo:
 #      #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
