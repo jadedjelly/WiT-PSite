@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-  name:
+- name:
   icon: fa-graduation-cap
   timeframe: May 2024 - Present
   institution:
@@ -31,8 +31,6 @@ degrees:
       - name: Managing Storage
       - name: Performing advanced system administration tasks
       - name: Managing & securing Network services
-
-
 - name:
   icon: fa-graduation-cap
   timeframe: Sept 2023 - Present
