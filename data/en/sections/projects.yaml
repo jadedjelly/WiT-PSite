@@ -30,8 +30,8 @@ buttons:
   filter: "linux"
 - name: Nexus
   filter: "nexus"
-- name: Misc
-  filter: "misc"
+- name: Personal
+  filter: "Personal"
 - name: Prometheus
   filter: "prometheus"
 - name: Python
@@ -291,7 +291,7 @@ projects:
       tags: [ "course work", "terraform", "aws", "linux", "docker", "git" ]
 
 
-# Your misc projects
+# Your Personal projects
 
     - name: Hugo & toha
       logo: /images/sections/projects/toha.png
@@ -300,7 +300,16 @@ projects:
       repo: https://github.com/jadedjelly/WiT-PSite
       #url: ""
       summary: Personal website & blog
-      tags: ["misc"]
+      tags: ["Personal"]
+
+    - name: Personal Linux Scripts
+      logo: /images/sections/projects/linux.png
+      role: Owner
+      timeline: "May 2024 - Present"
+      repo: https://github.com/jadedjelly/linux_scripts
+      #url: ""
+      summary: A collection of Bash scripts, and future ideas
+      tags: [ "Personal", "linux" ]
 
 
 #    - name:
