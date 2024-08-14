@@ -13,7 +13,7 @@ section:
 skills:
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Comfortable using AWS, learning it deeper with Solutions Arch & dev courses"
+  summary: "Professional have used Azure, I use AWS for my personal projects"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
@@ -37,15 +37,15 @@ skills:
   logo: /images/sections/skills/ansible.svg
   summary: "Learning this currently"
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
+- name: Operating Systems
+  logo: /images/sections/skills/work-process-outline-icon.svg
   summary: "Using Ubuntu as my day to day driver, and on the RHCSA9 course (Sander Van Vugt - [here](https://www.pearsonitcertification.com/store/red-hat-rhcsa-9-cert-guide-ex200-9780138096267))"
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development."
   url: "https://git-scm.com/"
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Know basic Python Developement for scripting and automation"
+  summary: "Know basic Python Development for scripting and automation"

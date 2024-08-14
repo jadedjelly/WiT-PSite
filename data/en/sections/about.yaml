@@ -19,7 +19,15 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "Seasoned IT Engineer with 20+ years of experience spanning Windows, Mac, Linux, Azure, O365, Intune, Teams, virtualization platforms, and popular security solutions. Consistently ensured peak performance, implemented rigorous security protocols, and maximized user satisfaction across multiple sites. Played a pivotal role in preparing infrastructures and companies for ISO certification. Committed to expanding DevOps expertise in Docker, Git, Ansible, and Terraform via self-directed learning and projects. Excited to transition into a DevOps Engineering role where I can merge IT operations acumen with DevOps principles to deliver cutting-edge solutions."
+summary: "Seasoned IT Engineer with 20+ years of experience spanning Windows,
+Mac, Linux, Azure, O365, Intune, Teams, virtualization platforms, and
+popular security solutions. Consistently ensured peak performance,
+implemented rigorous security protocols, and maximized user satisfaction
+across multiple sites. Played a pivotal role in preparing infrastructures and
+companies for ISO certification. Ensured corporate devices and
+infrastructure are robust and reliable. By working closely with Information
+Security, maintained stringent documentation and regular reviews,
+underpinning the trust our clients place in our technology solutions."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -40,7 +48,7 @@ socialLinks:
 # For example, you can put link for your resume.
 resourceLinks:
 - title: "My Resume"
-  url: "files/JohnKelly_resume.pdf"
+  url: "files/John_Kelly_CV.pdf"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.
